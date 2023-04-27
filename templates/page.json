@@ -12,7 +12,7 @@
     }
   },
   "order": [
-
+    "main",
     "bylt-header"
   ]
 }
