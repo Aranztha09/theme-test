@@ -6,9 +6,13 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    }, 
+    "bylt-header": {
+      "type": "bylt-header"
     }
   },
   "order": [
-    "main"
+    "main",
+    "bylt-header"
   ]
 }
