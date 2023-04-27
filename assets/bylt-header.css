@@ -1,0 +1,6 @@
+.father-option-header {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    font-family: 'Sen', sans-serif;
+}
