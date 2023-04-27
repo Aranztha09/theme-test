@@ -2,7 +2,7 @@
   "sections": {
 
     "bylt-header" : {
-      "type": "image-banner"
+      "type":  "bylt-header"
     },
 
     "image_banner": {
