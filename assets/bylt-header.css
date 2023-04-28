@@ -78,6 +78,10 @@
     display: flex;
  }
 
+ .first{
+    padding-top: 1px;
+ }
+
 
 
  @media (max-width:1030px) {
