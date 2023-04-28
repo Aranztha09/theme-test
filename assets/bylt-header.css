@@ -64,6 +64,7 @@
     height: 100vh;
     background-color:black;
     padding: 30px;
+    display: none;
  }
 
  .father-options-mobile {
