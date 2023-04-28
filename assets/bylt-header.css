@@ -111,12 +111,23 @@
     
  }
 
+ @media (max-width:600px) {
+    .father-options-mobile {
+        margin-left: 20px;
+    }
+ }
+
  @media (max-width:400px) {
     
     .father-option-header {
         height: 65px;
         padding: 14px 20px;
 
+    }
+
+    .options-mobile {
+        margin-bottom: 21px;
+        font-size: 15px;
     }
 }
     
