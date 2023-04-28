@@ -75,9 +75,11 @@
 
 <script>
     
-    let burger = document.getElementById ('burguer-option');
+    let burguer = document.getElementById ('burguer-option');
     let menuMobile =document.getElementById ('menu-mobile');
 
-    
+    burguer.addEventListener("click", function() {
+        menuMobile.classList.add('show');
+      });
 
 </script>
