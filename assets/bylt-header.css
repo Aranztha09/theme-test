@@ -5,9 +5,9 @@
     font-family: 'Sen', sans-serif;
     background-color:black;
     width: 100%;
-    padding: 13px 40px 0 40px;
+    padding: 13px 40px;
 }
- .father-options, .father-items {
+ .father-options, .father-items, .container-logo {
     display: flex;
     justify-content: center;
     align-items: center;
