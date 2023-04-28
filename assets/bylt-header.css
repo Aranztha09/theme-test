@@ -73,10 +73,7 @@
 
  }
 
- .options-mobile {
-    margin-bottom: 30px;
-    font-size: 30px;
- }
+
 
  @media (max-width:1030px) {
     .options {
@@ -100,6 +97,11 @@
 
     .burguer{
         display: flex;
+     }
+
+     .options-mobile {
+        margin-bottom: 30px;
+        font-size: 30px;
      }
     
  }
