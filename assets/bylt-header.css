@@ -3,10 +3,21 @@
     justify-content: space-between;
     color: white;
     font-family: 'Sen', sans-serif;
-    background-color: rgba(0, 0, 0, 0.786);
+    background-color:black;
     width: 100%;
     padding: 13px 40px 0 40px;
 }
  .father-options, .father-items {
     display: flex;
+ }
+
+ .options {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    margin-right: 16px;
+ }
+
+ .last {
+    margin-right: 0;
  }
