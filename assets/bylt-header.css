@@ -68,8 +68,10 @@
  .father-options-mobile {
     display: flex;
     flex-direction: column;
+    margin-left: 60px;
+    
  }
- 
+
  @media (max-width:1030px) {
     .options {
         font-size: 15px;
