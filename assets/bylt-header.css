@@ -64,6 +64,12 @@
     height: 10vh;
     background-color:black;
  }
+
+ .father-options-mobile {
+    display: flex;
+    flex-direction: column;
+ }
+ 
  @media (max-width:1030px) {
     .options {
         font-size: 15px;
