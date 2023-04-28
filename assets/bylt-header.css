@@ -43,5 +43,9 @@
     .options {
         font-size: 15px;
      }
+
+     .father-option-header {
+        padding: 13px 30px;
+    }
     
  }
