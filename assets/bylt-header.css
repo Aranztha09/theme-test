@@ -110,3 +110,14 @@
      }
     
  }
+
+ @media (max-width:400px) {
+    
+    .father-option-header {
+        height: 65px;
+        padding: 14px 20px;
+
+    }
+}
+    
+ 
