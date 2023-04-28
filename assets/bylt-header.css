@@ -21,10 +21,10 @@
     margin-right: 16px;
  }
 
- .last {
-    margin-right: 0;
- }
-
  .items {
     margin-right: 12px;
+ }
+
+ .last {
+    margin-right: 0;
  }
