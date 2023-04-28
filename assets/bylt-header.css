@@ -39,6 +39,19 @@
     margin-right: 0;
  }
 
+ .burguer{
+    display: none;
+    display: flex;
+    flex-direction: column;
+ }
+
+ .line {
+    height: 17px;
+    width: 25.5px;
+    border-radius: 0px;    
+    background: #94D600;
+ }
+
  @media (max-width:1030px) {
     .options {
         font-size: 15px;
@@ -47,5 +60,21 @@
      .father-option-header {
         padding: 13px 30px;
     }
+    
+ }
+
+ @media (max-width:972px) {
+    .father-options{
+        display: none;
+     }
+
+     .father-option-header {
+        padding: 13px 30px;
+    }
+
+    .burguer{
+        display: flex;
+     }
+    
     
  }
