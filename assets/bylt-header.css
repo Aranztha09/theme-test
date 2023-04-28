@@ -43,6 +43,7 @@
     display: none;
     flex-direction: column;
     justify-content: center;
+    cursor: pointer;
  }
 
  .father-option-header .burguer .line-burguer {
@@ -70,7 +71,7 @@
  }
 
  @media (max-width:972px) {
-    .father-options{
+    .father-options, .father-items{
         display: none;
      }
 
@@ -82,5 +83,6 @@
         display: flex;
      }
     
+
     
  }
