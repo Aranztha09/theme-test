@@ -24,3 +24,13 @@
     justify-content: center;
     align-items: center;
 }
+
+.title-hero {
+    font-family: 'Agenor';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 101.2%;
+    text-align: center;
+    color: #FFFFFF;
+}
