@@ -4,3 +4,16 @@
     box-sizing: border-box;
     text-decoration: none;
 }
+
+.father-content-hero {
+    display: flex;
+}
+
+.container-bottle {
+    min-width: 952px;
+    height: 470px;
+}
+
+.img-bottle {
+    width: 100%;
+}
