@@ -43,3 +43,7 @@
 .container-title-hero span {
     color: #94D600;
 }
+
+.container-frames-green {
+    display: flex;
+}
