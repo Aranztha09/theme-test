@@ -82,3 +82,13 @@
     display: flex;
     color:#FFFFFF;
 }
+
+
+.ingredients {
+    justify-content: center;
+    align-items: center;
+}
+
+.ingredients .img-ingre {
+    display: flex;
+}
