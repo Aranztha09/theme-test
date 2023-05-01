@@ -87,8 +87,13 @@
 .ingredients {
     justify-content: center;
     align-items: center;
+    margin-right: 40px;
 }
 
 .ingredients .img-ingre {
     display: flex;
+}
+
+.ingre-last {
+    margin: 0;
 }
