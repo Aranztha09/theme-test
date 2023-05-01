@@ -119,6 +119,9 @@
     height: 52.000000000000014px;
     width: 176.00000000000003px;
     background: linear-gradient(94.27deg, #89C600 0%, #6A9900 96.75%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container-button a{
