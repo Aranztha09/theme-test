@@ -351,5 +351,9 @@
     .items-footer-first {
         margin-right: 30px;
     }
+
+    .container-footer {
+        padding: 17px;
+    }
     
 }
