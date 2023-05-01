@@ -98,3 +98,15 @@
 .ingre-last {
     margin: 0;
 }
+
+.text-ingre {
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 101.2%;
+    letter-spacing: 0.08em;
+    color: #FFFFFF;
+    font-family: 'Sen', sans-serif;
+
+}
