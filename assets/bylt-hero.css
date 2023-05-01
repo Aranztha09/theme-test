@@ -189,6 +189,17 @@
     margin-top: 13px;
 }
 
+.text-frame-colors {
+    margin-bottom: 17px;
+    font-family: 'Sen', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 101.2%;
+    color: #FFFFFF;
+    
+
+}
+
 @media (max-width:1045px) {
     
     .container-frames-green {
