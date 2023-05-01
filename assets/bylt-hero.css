@@ -27,7 +27,8 @@
 }
 
 .container-title-hero {
-    min-width: 582px;
+    max-width: 582px;
+    margin-bottom: 24px;
 }
 
 .title-hero {
