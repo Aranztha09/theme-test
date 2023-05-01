@@ -76,3 +76,8 @@
 .container-img-ray {
     margin-top: 30px;
 }
+
+.container-ingredients , .ingredients {
+    display: flex;
+    color:#FFFFFF;
+}
