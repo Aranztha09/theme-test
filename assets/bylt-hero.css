@@ -155,7 +155,7 @@
     }
 
     .ingredients {
-        margin-right: 25px;
+        margin-right: 0px;
         margin-bottom: 14px
     }
 
@@ -207,4 +207,7 @@
         margin-right: 0;
         margin-bottom: 0;
     }
+
+ 
+    
 }
