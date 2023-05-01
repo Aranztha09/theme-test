@@ -193,4 +193,9 @@
     .container-title-hero {
         margin-bottom: 12px;
     }
+
+    .frame-green {
+        width: 349px;
+        height: 32px;
+    }
 }
