@@ -204,12 +204,18 @@
     color: #fff;
     justify-content: center;
     align-items: center;
+    padding: 30px;
+    
 }
 
 .items-footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.items-footer-first {
+    margin-right: 70px;
 }
 
 @media (max-width:1045px) {
