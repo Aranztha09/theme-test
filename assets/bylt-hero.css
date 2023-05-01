@@ -148,4 +148,8 @@
     .ingredients {
         margin-right: 25px;
     }
+
+    .ingre-last {
+        margin-right: 0;
+    }
 }
