@@ -53,6 +53,9 @@
     width: 436px;
     height: 32px;
     background: radial-gradient(104.24% 3354.61% at 55.45% 9.32%, #94D600 0%, #69930C 100%) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .text-frame {
