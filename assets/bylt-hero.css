@@ -146,6 +146,10 @@
     color: #FFFFFF;
 }
 
+.container-frame-colors-footer {
+    display: flex;
+}
+
 @media (max-width:1045px) {
     
     .container-frames-green {
