@@ -347,5 +347,9 @@
         display: flex;
         margin-bottom: 7px;
     }
+
+    .items-footer-first {
+        margin-right: 30px;
+    }
     
 }
