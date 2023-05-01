@@ -132,3 +132,16 @@
     letter-spacing: 0.055em;
     color: #FFFFFF;
 }
+
+@media (max-width:1045px) {
+    
+    .container-frames-green {
+        display: block;
+        margin-bottom: 36px;
+    }
+    
+    .frame-green1 {
+        margin-right: 0;
+        margin-bottom: 11px;
+    }
+}
