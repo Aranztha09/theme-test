@@ -133,6 +133,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    clip-path: polygon(0 0, 100% 0, 100% 66%, 87% 100%, 25% 100%, 0 100%);
+
 }
 
 .container-button a{
