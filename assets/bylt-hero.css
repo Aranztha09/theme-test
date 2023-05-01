@@ -198,4 +198,13 @@
         width: 349px;
         height: 32px;
     }
+
+    .container-frames-green {
+        margin-bottom: 49px;
+    }
+
+    .ingre-last {
+        margin-right: 0;
+        margin-bottom: 0;
+    }
 }
