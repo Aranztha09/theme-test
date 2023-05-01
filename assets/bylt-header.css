@@ -65,6 +65,7 @@
     background-color:black;
     padding: 60px 30px;
     display: none;
+    position: absolute;
  }
 
  .father-options-mobile {
