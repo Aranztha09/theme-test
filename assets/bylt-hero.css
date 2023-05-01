@@ -256,6 +256,11 @@
     .ingre-last {
         margin-right: 0;
     }
+
+    .container-frames-colors {
+        padding: 0;
+      
+   }
 }
 
 @media (max-width:972px) {
