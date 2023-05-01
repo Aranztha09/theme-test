@@ -118,15 +118,14 @@
 .container-button {
     height: 52.000000000000014px;
     width: 176.00000000000003px;
-    left: 641px;
-    top: 418px;
-    border-radius: 0px;
-    font-family: 'Agenor';
-    font-style: normal;
+    background: linear-gradient(94.27deg, #89C600 0%, #6A9900 96.75%);
+}
+
+.container-button a{
+    font-family: 'Sen', sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 101.2%;
     letter-spacing: 0.055em;
     color: #FFFFFF;
-    background: linear-gradient(94.27deg, #89C600 0%, #6A9900 96.75%);
 }
