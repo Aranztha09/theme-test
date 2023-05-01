@@ -220,6 +220,7 @@
 
 .svg-footer {
     margin-right: 15px;
+    display: flex;
 }
 
 
