@@ -10,8 +10,15 @@
     background: #19181B;
 }
 
+.content-hero {
+    width: 100%;
+}
+
 .father-bottle {
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .container-bottle {
     min-width: 952px;
