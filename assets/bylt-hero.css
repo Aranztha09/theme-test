@@ -175,5 +175,7 @@
     
     .title-hero {
         font-size: 45px;
+        padding: 0 20px;
+        
     }
 }
