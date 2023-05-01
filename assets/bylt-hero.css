@@ -146,7 +146,7 @@
     color: #FFFFFF;
 }
 
-.container-frame-colors-footer {
+.container-frames-colors , .frame-colors{
     display: flex;
 }
 
