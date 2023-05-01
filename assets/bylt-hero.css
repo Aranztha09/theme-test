@@ -176,6 +176,21 @@
     .title-hero {
         font-size: 45px;
         padding: 0 20px;
-        
+
+    }
+}
+
+@media (max-width:470px) {
+    
+    .container-img-ray {
+        margin-top: 17px;
+    }
+
+    .title-hero {
+        font-size: 40px;
+    }
+
+    .container-title-hero {
+        margin-bottom: 12px;
     }
 }
