@@ -166,23 +166,22 @@
     flex-direction: column;
 }
 
-.container-frames-colors:nth-child(1) {
+.frame-colors:nth-child(1) {
     background: linear-gradient(276.67deg, #FE6005 -6.78%, #FFB01F 134.07%);
 }
 
-.container-frames-colors:nth-child(2) {
+.frame-colors:nth-child(2) {
     background: linear-gradient(97.43deg, #FFD004 -7.91%, #C47701 163.27%);
 }
 
-.container-frames-colors:nth-child(3) {
+.frame-colors:nth-child(3) {
     background: linear-gradient(96.22deg, #84BF00 -1.54%, #4A7815 131.53%);
 }
 
-.container-frames-colors:nth-child(4) {
+.frame-colors:nth-child(4) {
     background: linear-gradient(96.91deg, #2F91EA -16.42%, #164796 138.38%);
 }
-
-.container-frames-colors:nth-child(5) {
+.frame-colors:nth-child(5) {
     background: linear-gradient(96.6deg, #D440DF -3.69%, rgba(212, 64, 223, 0) 141.01%);
 }
 
