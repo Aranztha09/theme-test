@@ -21,7 +21,7 @@
     align-items: center;
 }
 .container-bottle {
-    min-width: 952px;
+    max-width: 952px;
     height: 470px;
 }
 
