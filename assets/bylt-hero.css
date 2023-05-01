@@ -216,6 +216,13 @@
         margin-bottom: 17px;
     }
 
+    .frame-green1 {
+         clip-path: polygon(12% 0, 100% 0%, 89% 100%, 0% 100%);
+    }
+    
+    .frame-green1 {
+        clip-path: polygon(0 0, 90% 1%, 100% 100%, 10% 99%);
+   }
  
     
 }
