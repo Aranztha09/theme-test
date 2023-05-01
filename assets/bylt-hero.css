@@ -185,6 +185,9 @@
     background: linear-gradient(96.6deg, #D440DF -3.69%, rgba(212, 64, 223, 0) 141.01%);
 }
 
+.img-frame-colors {
+    margin-top: 13px;
+}
 
 @media (max-width:1045px) {
     
