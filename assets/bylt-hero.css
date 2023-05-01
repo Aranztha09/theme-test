@@ -201,7 +201,15 @@
 .container-footer {
     display: flex;
     background: linear-gradient(104.73deg,#252021 2.51%,#2D2729 101.24%);
-    color: #FFFFFF;
+    color: #fff;
+    justify-content: center;
+    align-items: center;
+}
+
+.items-footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 @media (max-width:1045px) {
