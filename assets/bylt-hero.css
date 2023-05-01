@@ -92,6 +92,7 @@
 
 .ingredients .img-ingre {
     display: flex;
+    margin-right: 8px;
 }
 
 .ingre-last {
