@@ -23,6 +23,10 @@
     margin-bottom: 67px;
 }
 
+.father-slider-products {
+    display: flex;
+}
+
 .container-products {
     max-width: 271px;
 }
@@ -36,6 +40,8 @@
     justify-content: center;
     align-items: center;
 }
+
+
 
 .pack {
     position: absolute;
@@ -57,6 +63,8 @@
 .containerimg-products {
     height: 254px;
 }
+
+
 
 .containerimg-products img {
     width: 100%;
