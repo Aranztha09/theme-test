@@ -7,10 +7,15 @@
 
     "bylt-hero" : {
       "type":  "bylt-hero"
+    },
+
+    "bylt-slider-products" : {
+      "type":  "bylt-slider-products"
     }
   },
   "order": [
     "bylt-header",
-    "bylt-hero"
+    "bylt-hero",
+    "bylt-slider-products"
   ]
 }
