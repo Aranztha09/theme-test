@@ -23,3 +23,10 @@
     margin-bottom: 67px;
 }
 
+.container-products {
+    max-width: 271px;
+}
+
+.container-info-products {
+    background: #272223;
+}
