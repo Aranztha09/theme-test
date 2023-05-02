@@ -75,3 +75,17 @@
 .flavor {
     margin-top: 8px;
 }
+
+.button-buy {
+    width: 271px;
+    height: 36px;
+    background: #89C600;
+}
+
+.text-button-buy{
+    font-family: 'Sen', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 101.2%;
+    color: #FFFFFF;
+}
