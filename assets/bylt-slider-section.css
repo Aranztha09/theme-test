@@ -80,6 +80,9 @@
     width: 271px;
     height: 36px;
     background: #89C600;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .text-button-buy{
