@@ -48,6 +48,7 @@
     font-size: 12px;
     line-height: 101.2%;
     color: #FFFFFF;
+    clip-path: polygon(13% 0%, 100% 0, 100% 50%, 100% 100%, 0 100%, 0 36%);
 }
 .containerimg-products {
     height: 254px;
