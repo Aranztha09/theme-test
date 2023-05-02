@@ -30,4 +30,22 @@
 .container-info-products {
     background-color: #272223;
     color: white;
+    position: relative;
+}
+
+.pack {
+    position: absolute;
+    top: -17px;
+    right: 0px;
+    width: 52px;
+    height: 16.86px;
+    background: #8ECE00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Sen', sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 101.2%;
+    color: #FFFFFF;
 }
