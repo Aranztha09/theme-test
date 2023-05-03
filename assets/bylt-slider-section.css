@@ -22,6 +22,9 @@
     color: radial-gradient(50% 50% at 50% 50%, #444444 0%, #444444 18.23%, #444444 34.9%, #444444 54.17%, #444444 72.4%, #444444 86.46%, #444444 100%);
     margin-bottom: 67px;
 }
+.slider-products {
+    padding-bottom: 81px;
+}
 
 .father-slider-products {
     display: flex;
