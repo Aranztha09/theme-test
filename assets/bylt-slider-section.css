@@ -160,4 +160,13 @@
     .container-products:nth-child(1) {
         margin-right: 0;
      }
+
+     .father-title-products {
+        margin-top: 53px;
+    }
+
+    .title-products {
+        font-size: 30px;
+        margin-bottom: 54px;
+    }
   }
