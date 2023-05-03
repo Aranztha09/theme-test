@@ -20,6 +20,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+    padding: 80px 60px;
 }
 
 .same-width {
