@@ -140,8 +140,4 @@
     .container-products:nth-child(3) {
         display: none;
     }
-
-    .container-products:nth-child(4) {
-        display: none;
-    }
   }
