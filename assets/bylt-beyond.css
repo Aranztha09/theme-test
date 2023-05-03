@@ -47,3 +47,12 @@
     line-height: 79.2%;
     color: #89C600;
 }
+
+.father-text-your {
+    font-family: 'Sen', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 119px;
+    line-height: 79.2%;
+    border: 2px solid #FFFFFF;
+}
