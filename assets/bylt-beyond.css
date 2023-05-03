@@ -17,4 +17,19 @@
 
 .father-frame-beyond {
     color: white;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.same-width {
+    width: 30%;
+}
+
+.same-width2  {
+    width: 50%;
+}
+
+.img-width{
+    width: 100%;
 }
