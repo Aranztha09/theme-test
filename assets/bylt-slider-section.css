@@ -101,6 +101,15 @@
     color: #FFFFFF;
 }
 
+.container-products {
+    margin-right: 24px;
+}
+
+.container-products:nth-child(4) {
+    margin-right: 0px;
+}
+
+
 
 .swiper {
     width: 100%;
