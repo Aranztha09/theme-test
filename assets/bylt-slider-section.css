@@ -151,3 +151,9 @@
        margin-right: 0;
     }
   }
+
+  @media(max-width:586px){
+    .container-products:nth-child(2) {
+       display: none;
+    }
+  }
