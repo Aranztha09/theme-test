@@ -11,11 +11,16 @@
 
     "bylt-slider-products" : {
       "type":  "bylt-slider-products"
+    },
+
+    "bylt-beyond" : {
+      "type":  "bylt-beyond"
     }
   },
   "order": [
     "bylt-header",
     "bylt-hero",
-    "bylt-slider-products"
+    "bylt-slider-products",
+    "bylt-beyond"
   ]
 }
