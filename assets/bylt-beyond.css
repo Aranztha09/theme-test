@@ -38,3 +38,12 @@
 .container-img1-drink, .container-img2-beyond {
     margin-bottom: 54px;
 }
+
+.father-text-beyond{ 
+    font-family: 'Avenir Next LT Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 119px;
+    line-height: 79.2%;
+    color: #89C600;
+}
