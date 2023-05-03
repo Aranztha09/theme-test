@@ -11,4 +11,6 @@
 
 .background-green {
     background-image: url(https://cdn.shopify.com/s/files/1/0758/8115/2813/files/Ellipse_8.png?v=1683128153);
+    background-repeat: no-repeat;
+    background-position: left;
 }
