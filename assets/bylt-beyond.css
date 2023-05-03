@@ -34,3 +34,7 @@
 .img-width{
     width: 100%;
 }
+
+.container-img1-drink, .container-img2-beyond {
+    margin-bottom: 54px;
+}
