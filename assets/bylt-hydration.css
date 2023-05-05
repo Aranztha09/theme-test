@@ -25,3 +25,9 @@
 .container-info-hydra {
     width: 40%;
 }
+
+.container-img-performance {
+    position: absolute;
+    top: 37px;
+    right: 21px;
+}
