@@ -10,6 +10,7 @@
     width: 100%;
     background: #111013;
     color: white;
+    font-family: 'Sen', sans-serif;
 }
 
 .container-img-hydra {
@@ -32,3 +33,25 @@
     top: 37px;
     right: 21px;
 }
+
+.top-title-hydra {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 79.2%;
+    color: #89C600;
+    margin-bottom: 14px;
+}
+
+.title-hydra {
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 94.2%;
+    margin-bottom: 19px;
+}
+
+.title-hydra {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 112.7%;
+}
+
