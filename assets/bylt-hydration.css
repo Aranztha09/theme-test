@@ -52,12 +52,13 @@
     font-weight: 400;
     font-size: 15px;
     line-height: 112.7%;
+    margin-bottom: 35px;
 }
 
 .container-frame-hydra {
     grid-template-columns: 1fr 1fr 1fr;
     display: grid;
-    margin-bottom: 35px;
+    margin-bottom: 27px;
 }
 
 
