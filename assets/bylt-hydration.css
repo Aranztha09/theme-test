@@ -61,4 +61,13 @@
     margin-bottom: 27px;
 }
 
+.frame-hydra {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(144, 145, 156, 0.06);
+    max-width: 145px;
+}
+
 
