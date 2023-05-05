@@ -54,3 +54,9 @@
     line-height: 112.7%;
 }
 
+.container-frame-hydra {
+    grid-template-columns: 1fr 1fr 1fr;
+    display: grid;
+}
+
+
