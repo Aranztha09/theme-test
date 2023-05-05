@@ -107,3 +107,19 @@
         width: 50%;
     }
 }
+
+@media (max-width: 1253px) {
+    .container-img-hydra {
+        width: 100%;
+    }
+
+    .container-info-hydra {
+        width: 100%;
+    }
+
+    .container-hydration {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center; 
+    }
+}
