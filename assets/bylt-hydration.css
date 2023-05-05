@@ -28,6 +28,7 @@
     width: 40%;
     padding-right: 80px;
     padding-bottom: 80px;
+    position: relative;
 }
 
 .container-img-performance {
