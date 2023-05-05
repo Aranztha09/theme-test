@@ -72,13 +72,22 @@
     align-items: center;
     background-color: rgba(144, 145, 156, 0.06);
     max-width: 145px;
+    margin-right: 16px;
+    padding: 20px 15px;
+}
+
+.frame-hydra:nth-child(3) {
+    margin-right: 0;
+}
+
+.frame-hydra:nth-child(6) {
+    margin-right: 0;
 }
 
 .title-frame-hydra{
     font-weight: 700;
     font-size: 15px;
     line-height: 79.2%;
-    padding: 20px 15px;
 }
 
 
