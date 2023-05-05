@@ -9,6 +9,7 @@
     width: 100%;
     background: #111013;
     color: white;
+    display: flex;
 }
 
 .container-img-hydra {
