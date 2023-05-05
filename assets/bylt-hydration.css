@@ -25,7 +25,6 @@
 
 .container-info-hydra {
     width: 40%;
-    padding: 89px 80px 0 60px;
 }
 
 .container-img-performance {
@@ -39,7 +38,7 @@
     font-size: 20px;
     line-height: 79.2%;
     color: #89C600;
-    margin-bottom: 14px;
+    margin:89px 0 14px 0;
 }
 
 .title-hydra {
