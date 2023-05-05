@@ -15,12 +15,17 @@
 
     "bylt-beyond" : {
       "type":  "bylt-beyond"
+    },
+
+    "bylt-hydration" : {
+      "type":  "bylt-hydration"
     }
   },
   "order": [
     "bylt-header",
     "bylt-hero",
     "bylt-slider-products",
-    "bylt-beyond"
+    "bylt-beyond",
+    "bylt-hydration"
   ]
 }
