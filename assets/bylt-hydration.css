@@ -97,3 +97,14 @@
 .frame-hydra-margin{
     margin-bottom: 19px;
 }
+
+@media (max-width: 1253px) {
+    
+    .container-img-hydra {
+        width: 50%;
+    }
+
+    .container-info-hydra {
+        width: 50%;
+    }
+}
